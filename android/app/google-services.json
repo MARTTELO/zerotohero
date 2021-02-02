@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855249664948",
+    "project_id": "zero-to-hero-4fb48",
+    "storage_bucket": "zero-to-hero-4fb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855249664948:android:3da558cbbe0661bbca10e1",
+        "android_client_info": {
+          "package_name": "com.example.zerotohero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855249664948-t8b21oqu4chur7aad5smsu8og9dajjhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Mfszgs0k2Tz4hwL-JoU0JIaU4Kojfb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855249664948-t8b21oqu4chur7aad5smsu8og9dajjhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
